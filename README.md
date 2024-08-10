@@ -1,0 +1,1 @@
+This project focused on applying statistical methods to analyze and interpret a dataset. Techniques such as hypothesis testing, regression analysis, and probability distributions were used to draw meaningful conclusions. The project showcased my understanding of statistical concepts and their application in real-world data analysis.
